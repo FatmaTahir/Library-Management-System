@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\myservice\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|solutionrelative:myservice\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\myservice\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|solutionrelative:myservice\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\myservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|solutionrelative:myservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -57,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\myservice\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|solutionrelative:myservice\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\myservice\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|solutionrelative:myservice\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,24 +74,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyService",
-              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\MyService.csproj",
-              "RelativeDocumentMoniker": "MyService\\MyService.csproj",
-              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\MyService.csproj",
-              "RelativeToolTip": "MyService\\MyService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-03T11:13:25.326Z",
+              "DocumentIndex": 0,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "MyService\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "MyService\\Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T12:01:56.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
@@ -95,12 +99,11 @@
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AgIAAAwAAAAAAAAAAAAkwBoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-03T10:27:51.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-03T10:27:51.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Domain\\Interfaces\\IBookRepository.cs",
               "RelativeDocumentMoniker": "Library.Domain\\Interfaces\\IBookRepository.cs",
@@ -112,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "BookUsecases.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Application\\UseCases\\BookUsecases.cs",
               "RelativeDocumentMoniker": "Library.Application\\UseCases\\BookUsecases.cs",
@@ -124,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Infrastructure\\BookRepository.cs",
               "RelativeDocumentMoniker": "Library.Infrastructure\\BookRepository.cs",
@@ -136,20 +139,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Program.cs",
               "RelativeDocumentMoniker": "MyService\\Program.cs",
               "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Program.cs",
               "RelativeToolTip": "MyService\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwDQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-02T16:14:27.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "MyService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "MyService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:26:19.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyService.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\MyService.csproj",
+              "RelativeDocumentMoniker": "MyService\\MyService.csproj",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\MyService.csproj",
+              "RelativeToolTip": "MyService\\MyService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-03T11:13:25.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IMemberRepository.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Domain\\Interfaces\\IMemberRepository.cs",
               "RelativeDocumentMoniker": "Library.Domain\\Interfaces\\IMemberRepository.cs",
@@ -161,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MemberRepository.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Infrastructure\\MemberRepository.cs",
               "RelativeDocumentMoniker": "Library.Infrastructure\\MemberRepository.cs",
@@ -173,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Library.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Domain\\Library.Domain.csproj",
               "RelativeDocumentMoniker": "Library.Domain\\Library.Domain.csproj",
@@ -181,12 +209,11 @@
               "RelativeToolTip": "Library.Domain\\Library.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-03T10:07:46.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-03T10:07:46.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "20261003071534_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Infrastructure\\Migrations\\20261003071534_InitialCreate.cs",
               "RelativeDocumentMoniker": "Library.Infrastructure\\Migrations\\20261003071534_InitialCreate.cs",
@@ -198,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "LibraryDbContext.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Infrastructure\\Data\\LibraryDbContext.cs",
               "RelativeDocumentMoniker": "Library.Infrastructure\\Data\\LibraryDbContext.cs",
@@ -210,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\appsettings.json",
               "RelativeDocumentMoniker": "MyService\\appsettings.json",
@@ -222,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "MemberController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Controllers\\MemberController.cs",
               "RelativeDocumentMoniker": "MyService\\Controllers\\MemberController.cs",
@@ -234,19 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ExceptionHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "MyService\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeToolTip": "MyService\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-03T06:26:19.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "MyService\\Controllers\\BooksController.cs",
