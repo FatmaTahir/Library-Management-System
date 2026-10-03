@@ -13,7 +13,7 @@ public class MemberRepository : IMemberRepository
 
     public List<Member> GetAllMembers() => _context.Members.ToList();
 
-    public Member GetMemberById(int id) => _context.Members.FirstOrDefault(m => m.Id == id);
+    public Member? GetMemberById(int id) => _context.Members.FirstOrDefault(m => m.Id == id);
 
     public void AddMember(Member member)
     {

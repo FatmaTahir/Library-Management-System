@@ -180,7 +180,7 @@
   {
     "ContainingType": "MyService.Controllers.MemberController",
     "Method": "Register",
-    "RelativePath": "api/Member",
+    "RelativePath": "api/members",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -196,7 +196,7 @@
   {
     "ContainingType": "MyService.Controllers.MemberController",
     "Method": "GetAll",
-    "RelativePath": "api/Member",
+    "RelativePath": "api/members",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

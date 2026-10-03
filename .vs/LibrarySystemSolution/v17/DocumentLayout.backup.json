@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD048A6B-9968-4B80-8EA4-4A6A430EB5E6}|Library.Infrastructure\\Library.Infrastructure.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\library.infrastructure\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD048A6B-9968-4B80-8EA4-4A6A430EB5E6}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD048A6B-9968-4B80-8EA4-4A6A430EB5E6}|Library.Infrastructure\\Library.Infrastructure.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\library.infrastructure\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD048A6B-9968-4B80-8EA4-4A6A430EB5E6}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0CE644-B310-40FF-B06E-65E066E22D0B}|Library.Domain\\Library.Domain.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\library.domain\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0CE644-B310-40FF-B06E-65E066E22D0B}|Library.Domain\\Library.Domain.csproj|solutionrelative:library.domain\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0CE644-B310-40FF-B06E-65E066E22D0B}|Library.Domain\\Library.Domain.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\library.domain\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0CE644-B310-40FF-B06E-65E066E22D0B}|Library.Domain\\Library.Domain.csproj|solutionrelative:library.domain\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B554DED-C2A5-4A6C-8BF5-7C5FBE93F5A0}|Library.Application\\Library.Application.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\library.application\\usecases\\bookusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B554DED-C2A5-4A6C-8BF5-7C5FBE93F5A0}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\usecases\\bookusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0CE644-B310-40FF-B06E-65E066E22D0B}|Library.Domain\\Library.Domain.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\library.domain\\library.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD0CE644-B310-40FF-B06E-65E066E22D0B}|Library.Domain\\Library.Domain.csproj|solutionrelative:library.domain\\library.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\myservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|solutionrelative:myservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD048A6B-9968-4B80-8EA4-4A6A430EB5E6}|Library.Infrastructure\\Library.Infrastructure.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\library.infrastructure\\migrations\\20261003071534_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD048A6B-9968-4B80-8EA4-4A6A430EB5E6}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\migrations\\20261003071534_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD048A6B-9968-4B80-8EA4-4A6A430EB5E6}|Library.Infrastructure\\Library.Infrastructure.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\library.infrastructure\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD048A6B-9968-4B80-8EA4-4A6A430EB5E6}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\myservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|solutionrelative:myservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\myservice\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|solutionrelative:myservice\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\myservice\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|solutionrelative:myservice\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|c:\\users\\hp\\documents\\github\\library-management-system\\myservice\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD04E45-79F1-42AC-A601-60CDEB6AED3D}|MyService\\MyService.csproj|solutionrelative:myservice\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Domain\\Interfaces\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "Library.Domain\\Interfaces\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Domain\\Interfaces\\IMemberRepository.cs",
+              "RelativeToolTip": "Library.Domain\\Interfaces\\IMemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T10:08:39.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Domain\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Library.Domain\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Domain\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "Library.Domain\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T10:08:20.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookUsecases.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Application\\UseCases\\BookUsecases.cs",
+              "RelativeDocumentMoniker": "Library.Application\\UseCases\\BookUsecases.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Application\\UseCases\\BookUsecases.cs",
+              "RelativeToolTip": "Library.Application\\UseCases\\BookUsecases.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T10:08:06.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Infrastructure\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Infrastructure\\BookRepository.cs",
+              "RelativeToolTip": "Library.Infrastructure\\BookRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAtwBkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:07:32.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Infrastructure\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Infrastructure\\MemberRepository.cs",
+              "RelativeToolTip": "Library.Infrastructure\\MemberRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:07:51.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Library.Domain",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Domain\\Library.Domain.csproj",
+              "RelativeDocumentMoniker": "Library.Domain\\Library.Domain.csproj",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Domain\\Library.Domain.csproj",
+              "RelativeToolTip": "Library.Domain\\Library.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-03T10:07:46.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20261003071534_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Infrastructure\\Migrations\\20261003071534_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure\\Migrations\\20261003071534_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Infrastructure\\Migrations\\20261003071534_InitialCreate.cs",
+              "RelativeToolTip": "Library.Infrastructure\\Migrations\\20261003071534_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:15:34.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Infrastructure\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure\\Data\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\Library.Infrastructure\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "Library.Infrastructure\\Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:07:15.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\appsettings.json",
+              "RelativeDocumentMoniker": "MyService\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\appsettings.json",
+              "RelativeToolTip": "MyService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-02T16:15:54.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "MyService\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "MyService\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:42:14.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "MyService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "MyService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:26:19.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "MyService\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "MyService\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:15:25.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Program.cs",
+              "RelativeDocumentMoniker": "MyService\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Library-Management-System\\MyService\\Program.cs",
+              "RelativeToolTip": "MyService\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:14:27.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

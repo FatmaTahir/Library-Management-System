@@ -259,7 +259,7 @@
         }
       }
     },
-    "/api/Member": {
+    "/api/members": {
       "post": {
         "tags": [
           "Member"

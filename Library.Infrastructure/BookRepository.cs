@@ -23,7 +23,7 @@ namespace Library.Infrastructure
             return _context.Books.ToList();
         }
         
-        public Book GetBookById(int id)
+        public Book? GetBookById(int id)
         {
             return _context.Books.FirstOrDefault(b => b.Id == id);
         }
@@ -46,10 +46,11 @@ namespace Library.Infrastructure
                 _context.SaveChanges();
             }
         }
+      
         public List<Book> GetBooksByCategory(string category)
         {
             return _context.Books
-                .Where(b => b.Category.Equals(category, StringComparison.OrdinalIgnoreCase))
+                .Where(b => b.Category.ToLower() == category.ToLower())
                 .ToList();
         }
     }

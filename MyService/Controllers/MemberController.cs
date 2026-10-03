@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace MyService.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/members")]
     [ApiController]
     public class MemberController : ControllerBase
     {

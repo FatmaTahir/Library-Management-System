@@ -10,7 +10,7 @@ namespace Library.Domain.Interfaces
     public interface IMemberRepository
     {
         List<Member> GetAllMembers();
-        Member GetMemberById(int id);
+        Member? GetMemberById(int id);
         void AddMember(Member member);
     }
 }

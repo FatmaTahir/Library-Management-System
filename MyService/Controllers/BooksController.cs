@@ -10,25 +10,29 @@ namespace MyService.Controllers
     public class BooksController : ControllerBase
     {
         private readonly BookUsecases _uc;
+
         public BooksController(BookUsecases uc)
         {
             _uc = uc;
         }
+
         [HttpGet]
         public IActionResult GetAll()
         {
             return Ok(_uc.GetAllBooks());
         }
+
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
             var book = _uc.GetBookById(id);
 
             if (book == null)
-                return NotFound(); 
+                return NotFound();
 
             return Ok(book);
         }
+
         [HttpPost]
         public IActionResult Add([FromBody] Book book)
         {
@@ -37,8 +41,9 @@ namespace MyService.Controllers
 
             _uc.AddBook(book);
 
-            return Ok();
+            return Ok(new { message = "Book added successfully" });
         }
+
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
@@ -49,8 +54,9 @@ namespace MyService.Controllers
 
             _uc.DeleteBook(id);
 
-            return Ok();
+            return Ok(new { message = "Book deleted successfully" });
         }
+
         [HttpGet("category/{category}")]
         public IActionResult GetByCategory(string category)
         {
@@ -58,6 +64,7 @@ namespace MyService.Controllers
 
             return Ok(books);
         }
+
         [HttpGet("available")]
         public IActionResult GetAvailableBooks()
         {
